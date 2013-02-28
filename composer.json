@@ -14,6 +14,5 @@
     "require": {
         "php": ">=5.3.3"
     }, 
-    "target-dir": "Zend/Permissions/Acl", 
-    "version": "2.0.2"
+    "target-dir": "Zend/Permissions/Acl"
 }
